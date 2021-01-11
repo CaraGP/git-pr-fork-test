@@ -1,6 +1,6 @@
 # Git pr fork test
 
-My name is foo
+My name is totally foo
 I am something
-Also bar
+Also totally bar
 
